@@ -1,3 +1,10 @@
+## CUSTOM DEFINED:
+
+# Data Folders
+data/
+
+
+## PYTHON TEMPLATE:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
