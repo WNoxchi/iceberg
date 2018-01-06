@@ -1,5 +1,8 @@
 ## CUSTOM DEFINED:
 
+fastai/
+fastai_old/
+
 # Data Folders
 data/
 
